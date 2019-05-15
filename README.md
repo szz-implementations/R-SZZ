@@ -1,5 +1,5 @@
-# AG-SZZ
-This repository contains the algorithm implementation described in [Automatic Identification of Bug-Introducing Changes](https://www.cse.ust.hk/~hunkim/images/5/59/Papers_kim2006ase.pdf)
+# R-SZZ
+This repository contains the algorithm implementation described in [A Framework for Evaluating the Results of the SZZ Approach for Identifying Bug-Introducing Changes](https://users.encs.concordia.ca/~shang/pubs/TSE_Daniel.pdf)
 
 ### Particulars
 - Details about this code, can be found in the work [??]()
